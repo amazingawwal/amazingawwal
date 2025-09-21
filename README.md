@@ -1,6 +1,15 @@
 # Hi there 👋, I'm Sakeeb Ayigoro  
 
-💡 Passionate Software Developer building digital solutions for Industry 5.0.  
+## 👨‍💻 About Me
+<div style="background-color:#1e1e1e; padding:20px; border-radius:10px;">
+
+- 💡 Passionate software developer building solutions that make a difference.  
+- 🚀 Experienced in **frontend & backend development** with modern tools and frameworks.  
+- 🤝 I enjoy contributing to **open source projects**, collaborating with peers.  
+- 🌍 Currently based in **Sheffield, UK**.  
+- 🎯 My goal: Build **digital solutions for Industry 5.0**.  
+
+</div>  
 
 ---
 
